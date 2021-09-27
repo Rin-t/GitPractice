@@ -22,6 +22,6 @@ class SecondViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        print("竹村作成")
+        print("aaaaa")
     }
 }
