@@ -14,6 +14,7 @@ class ViewController: UIViewController {
         print("ver 1.0.0修正中2")
         print("gitから入力")
         print("master作業継続")
+        print("vvvvvv")
     }
 
 
