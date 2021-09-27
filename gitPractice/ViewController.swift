@@ -13,6 +13,7 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         print("ver 1.0.0修正中2")
         print("gitから入力")
+        print("master作業継続")
     }
 
 
