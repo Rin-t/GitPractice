@@ -11,7 +11,7 @@ class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        print("ver 1.0.0")
+        print("ver 1.0.0修正中")
     }
 
 
