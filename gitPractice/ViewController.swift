@@ -24,5 +24,6 @@ class SecondViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         print("aaaaa")
+        print("bbbbb")
     }
 }
